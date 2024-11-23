@@ -23,8 +23,8 @@ This project is a solution to the Frontend Data Analysis Task provided by Manufa
 1. Clone the repository
 
 ```bash
-  npm install my-project
-  cd my-project
+  git clone https://github.com/Kartik-ui/manufac_assignment_kartik.git
+  cd manufac_assignment_kartik
 ```
 
 2. Install dependencies:
@@ -41,14 +41,15 @@ This project is a solution to the Frontend Data Analysis Task provided by Manufa
 
 ### Project Structure
 
-- `public`: Contains static assets like data.json and favicon.svg.
-- `src`: The main source code directory, including:
-- `App.tsx and main.tsx`: Core application files.
-- `components`: Reusable UI components.
-- `config`: Configuration files.
-- `pages`: Individual pages of your application.
-- `types`: TypeScript type definitions.
+* `public`: Contains data.json which has data of NITI Aayog.
+* `src`: The main source code directory, including:
+   - `App.tsx and main.tsx`: Core application files.
+   - `components`: Reusable UI components.
+   - `config`: Configuration files.
+   - `pages`: Individual pages of your application.
+   - `types`: TypeScript type definitions.
 
 ### Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/user-attachments/assets/ae3cf42d-7e15-4b9c-8c3d-96180c797036)
+
